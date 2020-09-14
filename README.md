@@ -1,13 +1,9 @@
-# Roger's Page
-
-Hi.  I am Roger.  I am a software developer.  I live dogs and cats and Star Wars.  Boo to Star Trek.
-
-I have 5 children.  I am.......
-
-
-## Table of Contents for reading
+## Table of Contents for Eeading
 - [Class 1: Growth Mindsset](growthmindset.md)
 - [Class 2: xxxxx]()
+
+## Table of COntentes for Review
+- [Class 1 Review](class1_review.md)
 
 ### Lets talk about Growth Mindset
 
