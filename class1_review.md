@@ -17,6 +17,6 @@
   - [x] Checked Box
 - Code Block?
 ```python
-def hello_world(():
+def hello_world():
   pass
 ```
