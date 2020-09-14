@@ -5,7 +5,8 @@ Hi.  I am Roger.  I am a software developer.  I live dogs and cats and Star Wars
 I have 5 children.  I am.......
 
 
-## This is a heading 2
+## Table of Contents for reading
+- [Class 1: Growth Mindsset](growthmindset.md)
 
 ### Lets talk about Growth Mindset
 
