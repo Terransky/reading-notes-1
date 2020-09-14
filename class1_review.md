@@ -13,7 +13,7 @@
 - easier than what was thought
 - did a seperate profile page
 - Little checkboxes
-  - [x]
+  - []
 - Code Block?
 ```python
 def hello_world(():
