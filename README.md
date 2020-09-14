@@ -7,6 +7,7 @@ I have 5 children.  I am.......
 
 ## Table of Contents for reading
 - [Class 1: Growth Mindsset](growthmindset.md)
+- [Class 2: xxxxx]()
 
 ### Lets talk about Growth Mindset
 
