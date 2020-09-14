@@ -7,4 +7,10 @@ I have 5 children.  I am.......
 
 ## This is a heading 2
 
-### This is a heading 3
+### Lets talk about Growth Mindset
+
+How can I keep myself in a growth midnset?
+
+- Self Discovery
+- Be mindful other my thinking
+- read about growth mindset
